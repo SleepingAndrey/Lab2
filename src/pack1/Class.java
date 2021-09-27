@@ -48,3 +48,4 @@ class Vector {
         System.out.println("Длина вектора: " + length);
     }
 }
+// Скорбный коммент
